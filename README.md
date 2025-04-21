@@ -209,12 +209,6 @@ pip install -r requirements.txt
 - Required libraries:
   - `pandas`, `numpy`, `scikit-learn`, `xgboost`, `tensorflow`, `matplotlib`, `seaborn`
 
-### Hardware
-
-- Processor: Intel Core i5 (or equivalent) or higher
-- Memory: Minimum 8 GB RAM
-- Storage: At least 2 GB of available space
-
 ---
 
 ## Conclusion
