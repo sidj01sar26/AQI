@@ -158,6 +158,8 @@ AQI/
 ### Running the Application
 
 ```bash
+streamlit run DL_model/main.py
+streamlit run exp/main.py
 streamlit run frontend/main.py
 ```
 
